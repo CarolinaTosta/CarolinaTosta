@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CarolinaTosta
-- 👀 I’m interested in go deeper into Information Technology
-- 🌱 I’m currently learning  Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/carolina-tosta/ or carolinacltosta@gmail.com
+## Olá! Eu sou a Carolina Tosta 
+
+- 💼 Hoje trabalho com análise de dados e integrações
+- 🌱 Estudando Python
+
